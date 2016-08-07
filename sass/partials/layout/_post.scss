@@ -1,0 +1,72 @@
+.content-container{
+    width: 100%;
+    padding: 0 5%;
+    margin: 0 auto;
+
+    .post-title{
+        font-size: 2.5em;
+        color: $title-color;
+        padding: 10px 0;
+    }
+
+    .meta{
+        padding: 5px 0;
+        margin-bottom: 5px;
+        border-bottom: $line;
+        color: $secondary-text;
+    }
+
+    .featsection{
+        margin: 10px 0;
+    }
+
+    .catsandtags{
+        padding: 10px 0;
+        line-height: 2.5;
+        color: $secondary-text;
+
+        .category,
+        .tags{
+            .name{
+                font-weight: 500;
+            }
+        }
+    }
+
+    .post-nav{
+        @include clearfix();
+        margin: 20px 0;
+
+        .prev{
+            float: left;
+        }
+
+        .next{
+            float: right;
+        }
+
+        @media screen and (max-width: 490px){
+            .long{
+                display: none;
+            }
+            .post-title{
+                font-size: 1.6em;
+            }
+        }
+
+        @media screen and (max-width: 318px){
+            .short{
+                display: none;
+            }
+        }
+    }
+  @media screen and (max-width: 490px){
+    .content-container{
+      width: 100%;
+      padding: 0 0;
+    }
+    .post-title{
+      font-size: 1.6em;
+    }
+  }
+}

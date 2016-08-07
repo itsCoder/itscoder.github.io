@@ -1,0 +1,51 @@
+// Logo SVG styling you most probably will replace all of the below.
+
+.icon{
+    transition: .3s all ease;
+    fill:$dark-primary-color;
+    .lines{
+        stroke: white;
+        stroke-width:3;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+    }
+    .rectangle{
+        // fill: $dark-primary-color;
+    }
+}
+
+.gridster{
+    font-size:104.73602295px;
+    font-weight: bold;
+    line-height:125%;
+    fill:$primary-text;
+    font-family: $main-font;
+    //text-transform: uppercase;
+    transition: .3s all ease;
+}
+
+.slogan{
+    font-size:30px;
+    font-weight:300;
+    line-height:125%;
+    fill:$accent-color;
+    font-family: $main-font;
+    transition: .3s all ease;
+}
+
+a:hover{
+    svg{
+        .icon{
+            fill:$accent-color;
+        }
+
+        .twister{
+            fill:$dark-primary-color;
+        }
+
+        .slogan{
+            fill:$light-primary-color;
+        }
+    }
+}

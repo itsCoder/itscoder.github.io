@@ -1,0 +1,17 @@
+.widget{
+    box-sizing: border-box;
+    padding: 10px;
+
+    .title{
+        @extend h5;
+    }
+
+    ul{
+        padding: 0 25px;
+        margin: 0;
+
+        li{
+            padding-left: 0px;
+        }
+    }
+}
