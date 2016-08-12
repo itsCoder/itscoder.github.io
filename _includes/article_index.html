@@ -52,7 +52,7 @@
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">
         <h1>{{ post.title }}</h1>
     </a>
-    <p class="post-content">{{ post.content | strip_html | truncatewords: 15 }}</p>
+    <p class="post-content">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
     <p class="actions">
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">查看更多</a>
     </p>
