@@ -1,8 +1,8 @@
-*{
+* {
     box-sizing: border-box;
 }
 
-html{
+html {
     font: {
         family: $main-font;
         size: $root-font-size;
@@ -10,80 +10,79 @@ html{
     }
 }
 
-body{
+body {
     @extend html;
     line-height: $basic-line-height;
 
-    @if $background-color-setting == yes{
+    @if $background-color-setting == yes {
         background-color: $background-color;
     }
 }
 
 // Headings
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
     line-height: 1;
     padding: 10px 0px;
 
-    @if $headings-text-transform != none{
+    @if $headings-text-transform != none {
         text-transform: $headings-text-transform;
     }
 
-    @if $headings-font != $main-font{
+    @if $headings-font != $main-font {
         font-family: $headings-font;
     }
 
-    @if $headings-font-weight != $main-font-weight{
+    @if $headings-font-weight != $main-font-weight {
         font-weight: $headings-font-weight;
     }
 }
 
-h1{
+h1 {
     font-size: 2.35em;
 }
 
-h2{
+h2 {
     font-size: 1.6em;
 }
 
-h3{
+h3 {
     font-size: 1.45em;
 }
 
-h4{
+h4 {
     font-size: 1.25em;
 }
 
-h5{
+h5 {
     font-size: 1.08em;
 }
 
-h6{
+h6 {
     font-size: 1em;
 }
 
 // Links
-a{
+a {
     @if $link-transition == yes {
         transition: .3s all;
     }
 
-    @if $link-line-default == no{
+    @if $link-line-default == no {
         text-decoration: none;
-    }
-    @else{
+    } @else {
         text-decoration: underline;
     }
 
     color: $link-color;
 
-    &:hover{
+    &:hover {
         cursor: pointer;
         color: $link-hover-color;
 
-        @if $link-line-default == yes and $link-line-hover == no{
+        @if $link-line-default == yes and $link-line-hover == no {
             text-decoration: none;
         }
-        @if $link-line-default == no and $link-line-hover == yes{
+        @if $link-line-default == no and $link-line-hover == yes {
             text-decoration: underline;
         }
     }
@@ -91,34 +90,34 @@ a{
 
 // Defaults
 
-img{
+img {
     max-width: 100%;
     height: auto;
 }
 
-iframe{
+iframe {
     width: 100%;
     // height: auto;
 }
 
-code{
+code {
     font-family: 'Source Code Pro', 'Courier New', monospace;
 }
 
 kbd,
-pre{
+pre {
     @extend code;
 }
 
-@if $paragraph-gap == yes{
-    p + p{
+@if $paragraph-gap == yes {
+    p + p {
         margin-top: $paragraph-gap-size;
     }
 }
 
 // Container
-@if $container-settings == yes{
-    .#{$container-class-name}{
+@if $container-settings == yes {
+    .#{$container-class-name} {
         max-width: $container-max-width;
         width: $container-width;
         background: $container-background-color;
@@ -191,12 +190,12 @@ pre{
     table {
         width: 100%;
         border: $table-border;
-		overflow-x: auto;
+        overflow-x: auto;
 
         thead tr {
             background: darken($even-rows-bg, 5%);
         }
-        
+
         tr {
             border-bottom: $table-border;
 
@@ -263,6 +262,10 @@ pre{
     }
 }
 
+.cnzz {
+    display: none;
+}
+
 // WordPress default classes
 @if $inlcude-WordPress-kit == yes {
     .alignnone {
@@ -277,7 +280,7 @@ pre{
     }
 
     .alignright {
-        float:right;
+        float: right;
         margin: 10px 15px !important;
     }
 
