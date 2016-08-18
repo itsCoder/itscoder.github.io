@@ -1,4 +1,4 @@
-article{
+article {
     @include shadow(1);
     border-radius: 1.5px;
     box-sizing: border-box;
@@ -7,80 +7,89 @@ article{
     margin-top: 30px;
     position: relative;
 
-    .content-container &{
+    .content-container & {
         padding: 20px 40px 50px 40px;
 
-        p{
+        p {
             padding: 5px 0;
         }
     }
 
     .index & h1,
     .index & p,
-    .index & span{
+    .index & span {
         padding: 0 20px;
     }
 
-    img{
+    img {
         transition: .3s all ease;
     }
 
-    a:hover{
-        img{
+    a:hover {
+        img {
             opacity: .5;
         }
     }
 
     .category,
     .tags {
-        .index &{
+        .index & {
             font-size: .7em;
             opacity: .6;
         }
     }
 
-    .date{
-        .index &{
+    .date {
+        .index & {
             font-size: .7em;
             opacity: .6;
         }
     }
 
     ul,
-    ol{
+    ol {
         list-style: circle;
         padding: 0 35px;
 
-        li{
+        li {
             padding-left: 0px;
         }
     }
 
-    ol{
+    ol {
         list-style: decimal;
     }
 }
 
-.wrapper{
+.wrapper {
     width: 100%;
     height: auto;
     box-sizing: border-box;
 }
 
-.short{
+.short {
     width: 100%;
 
-    a{
+    a {
         display: block;
         width: 100%;
         padding: 10px;
 
-        .shortdate{
+        .shortdate {
             font-size: .8em;
             opacity: .8;
             padding-right: 10px;
             margin-right: 10px;
             border-right: $line;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    article {
+        .content-container & {
+            padding: 20px 15px 50px 15px;
+
         }
     }
 }

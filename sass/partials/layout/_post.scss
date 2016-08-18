@@ -1,72 +1,81 @@
-.content-container{
+.content-container {
     width: 100%;
-    padding: 0 5%;
+    padding: 0 10%;
     margin: 0 auto;
 
-    .post-title{
+    .post-title {
         font-size: 2.5em;
         color: $title-color;
         padding: 10px 0;
     }
 
-    .meta{
+    .meta {
         padding: 5px 0;
         margin-bottom: 5px;
         border-bottom: $line;
         color: $secondary-text;
     }
 
-    .featsection{
+    .featsection {
         margin: 10px 0;
     }
 
-    .catsandtags{
+    .catsandtags {
         padding: 10px 0;
         line-height: 2.5;
         color: $secondary-text;
 
         .category,
-        .tags{
-            .name{
+        .tags {
+            .name {
                 font-weight: 500;
             }
         }
     }
 
-    .post-nav{
+    .post-nav {
         @include clearfix();
         margin: 20px 0;
 
-        .prev{
+        .prev {
             float: left;
         }
 
-        .next{
+        .next {
             float: right;
         }
 
-        @media screen and (max-width: 490px){
-            .long{
+        @media screen and (max-width: 490px) {
+            .long {
                 display: none;
             }
-            .post-title{
+            .post-title {
                 font-size: 1.6em;
             }
         }
 
-        @media screen and (max-width: 318px){
-            .short{
+        @media screen and (max-width: 318px) {
+            .short {
                 display: none;
             }
         }
     }
-  @media screen and (max-width: 490px){
-    .content-container{
-      width: 100%;
-      padding: 0 0;
+
+}
+
+@media screen and (max-width: 768px) {
+    .margin {
+        width: 100%;
+        margin: 0;
+        padding: 0;
     }
-    .post-title{
-      font-size: 1.6em;
+    .content-container {
+        width: 100%;
+        padding: 0 0;
+        margin: 0 auto;
+        .post-title {
+            font-size: 1.6em;
+        }
     }
-  }
+
 }
