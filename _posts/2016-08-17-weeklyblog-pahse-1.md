@@ -6,7 +6,7 @@ category: [WeeklyBlog]
 ---
 
 
-WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python 爬虫和 swift 相关内容。
+WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python 爬虫和 Swift 相关内容。
 
 >[WeeklyBlog](https://github.com/itsCoder/weeklyblog) 是 itsCoder 发起了的第一个项目，本项目旨在督促成员利用业余时间继续学习，以写博客的方式或者开源项目作为产出。在提升自己的同时，将技术知识分享到开源社区。
 
