@@ -28,7 +28,7 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 - [StaticLayout 源码分析](http://jaeger.itscoder.com/android/2016/08/05/staticlayout-source-analyse.html) ([@写代码的猴子](https://github.com/laobie))
 
 ##### Python
-- [豆瓣图书 Top250 爬虫](http://allenwu.itscoder.com/2016/08/17/DouBan-Spider/) ([@allenwu](https://github.com/wuchangfeng))
+- [豆瓣图书 Top250 爬虫](http://allenwu.itscoder.com/2016/08/16/DouBan-Spider/) ([@allenwu](https://github.com/wuchangfeng))
 
 ##### Swift
 - [详解 Swift 类型约束系统](http://manjusaka.itscoder.com/2016/08/02/%E8%AF%A6%E8%A7%A3Swift%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%9F%A5%E5%99%A8/) ([@Manjusaka](https://github.com/Zheaoli))
