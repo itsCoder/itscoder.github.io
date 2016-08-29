@@ -36,7 +36,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
 - [View 的事件分发机制（Android 开发艺术探索读书笔记）](http://yongyu.itscoder.com/2016/08/28/view_touchEvent_dispatch/)([@yongyu0102](http://yongyu.itscoder.com/))
 
-  本文先从文字描述上让读者了解到事件分发的概念，先有个感性认识，再结合源码进行事件分发机制的分析，对源码关键的地方均添加了详细的说明，帮助读者理解，让阅读源码变得不在那么可怕。
+  本文先从文字描述上让读者了解到事件分发的概念，先有个感性认识，再结合源码进行事件分发机制的分析，对源码关键的地方均添加了详细的说明，帮助读者理解，让阅读源码变得不再那么可怕。
 
 
 - [RecyclerView完美实现拖拽、滑动删除以及撤销删除](http://hymane.itscoder.com/2016/05/08/RecyclerView%E5%AE%8C%E7%BE%8E%E5%AE%9E%E7%8E%B0%E6%8B%96%E6%8B%BD%E3%80%81%E6%BB%91%E5%8A%A8%E5%88%A0%E9%99%A4%E4%BB%A5%E5%8F%8A%E6%92%A4%E9%94%80%E5%88%A0%E9%99%A4/) ([@hymane](https://github.com/Hymanme))
@@ -52,7 +52,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
   谢三弟文辞幽默地从源码角度分析了 Retrofit 是如何将接口转换为网络请求，并分析出到底是哪里进行网络请求，源码中关键点都添加了详细的说明，对于使用 Retrofit 但是不知道其原理的开发者，本文是一篇不错的学习文章。
 
-- [Android 中不得不谈的 setContentView](https://itsmelo.github.io/2016/08/19/Android%20%E4%B8%AD%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B0%88%E7%9A%84%20setContentView/)[@Melo](https://itsmelo.github.io/)
+- [Android 中不得不谈的 setContentView](https://itsmelo.github.io/2016/08/19/Android%20%E4%B8%AD%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B0%88%E7%9A%84%20setContentView/) ([@Melo](https://itsmelo.github.io/))
 
   对于 Android 开发者而言，setContentView 再熟悉不过了，但是真的熟悉么？Melo 司机从 setContentView() 方法出发，步步深入，一点点挖掘到源码深处，同时以实际项目验证了探究的结果，并给出自己的分析。在这里还推荐下该站点其他的文章，都有着很高的质量。
 
