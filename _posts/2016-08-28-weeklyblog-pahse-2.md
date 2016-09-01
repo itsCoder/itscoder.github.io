@@ -56,7 +56,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
   对于 Android 开发者而言，setContentView 再熟悉不过了，但是真的熟悉么？Melo 司机从 setContentView() 方法出发，步步深入，一点点挖掘到源码深处，同时以实际项目验证了探究的结果，并给出自己的分析。在这里还推荐下该站点其他的文章，都有着很高的质量。
 
-- [BottomPopUpDialog底部弹出框的实现](https://shadowzwy.github.io/BottomPopUpDialog%E5%BA%95%E9%83%A8%E5%BC%B9%E5%87%BA%E6%A1%86%E7%9A%84%E5%AE%9E%E7%8E%B0/) ([@shadow](https://github.com/shaDowZwy))
+- [BottomPopUpDialog 底部弹出框的实现](https://shadowzwy.github.io/BottomPopUpDialog%E5%BA%95%E9%83%A8%E5%BC%B9%E5%87%BA%E6%A1%86%E7%9A%84%E5%AE%9E%E7%8E%B0/) ([@shadow](https://github.com/shaDowZwy))
 
   本文从实际开发中遇到的问题出发，具体从底部弹出框实现的初期分析到实际开发中遇到的一些问题，以及其中的一些小细节，并抽成一个组件，提供必要的 api 来满足使用者的需求，后期可以考虑加上多样化的样式以及更多的自定义属性的支持。
 

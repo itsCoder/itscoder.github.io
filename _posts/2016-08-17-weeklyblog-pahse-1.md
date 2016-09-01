@@ -23,7 +23,7 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 
 - [ActivityThread 的 main 方法究竟做了什么](https://itsmelo.github.io/2016/07/28/ActivityThread%E7%9A%84main%E6%96%B9%E6%B3%95%E7%A9%B6%E7%AB%9F%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/) ([@itsMelo](https://github.com/itsMelo))
 
-- [RxJava Retrofit 2 配合 MVP 实现豆瓣图书展示](https://github.com/itsCoder/weeklyblog/blob/master/phase_1_20160807/hymane_20160806_douban_book_with_rxjava_retrofit2_MVP.md) ([@Hymane](https://github.com/Hymanme))
+- [RxJava Retrofit 2 配合 MVP 实现豆瓣图书展示](https://github.com/itsCoder/weeklyblog/blob/master/phase_1/hymane_20160806_douban_book_with_rxjava_retrofit2_MVP.md) ([@Hymane](https://github.com/Hymanme))
 
 - [StaticLayout 源码分析](http://jaeger.itscoder.com/android/2016/08/05/staticlayout-source-analyse.html) ([@写代码的猴子](https://github.com/laobie))
 
