@@ -42,7 +42,7 @@ category: [WeeklyBlog]
 
 - [在 Android 中使用 Java8 的特性](http://brucezz.itscoder.com/articles/2016/10/05/use_java8_in_android/)  ([@brucezz](https://github.com/brucezz))
 
-  这篇文章用实例的方式详细介绍了Java8的新特性，在介绍Lambda表达式的模块中，将使用场景描述的很详细；通过各种实用场景的对比，突出了java8新特性的好处，尤其是后两个新特性，非常有趣。
+  这篇文章用实例的方式详细介绍了Java8的新特性，在介绍Lambda表达式的模块中，将使用场景描述的很详细；通过各种实用场景的对比，突出了 Java8 新特性的好处，尤其是后两个新特性，非常有趣。
 
 - [Android View 的工作原理下 View 的 layout 和 draw 过程详解 （Android 开发艺术探索读书笔记）](http://yongyu.itscoder.com/2016/10/05/view_layout_and_draw/) ([@yongyu](https://github.com/yongyu0102))
 
