@@ -54,7 +54,7 @@ category: [WeeklyBlog]
   本文作者从实际需求出发，在未找到现成的解决问题的办法之下，逐步剖析问题，分析需求，最后形成了一种清晰的解决问题的思路，个人感觉这种能力是我们每个开发者所必须具备的。再者通过阅读本篇文章，从宏观角度上，可以了解和学习一下比较流行的混合开发，即 Java 与 Js 交互应用，从一个小的点摸清到底交互开发到底能够给开发者带来什么样的好处；从微观角度上来讲，阅读本篇文章，可以学习一些日常开发技巧，如  PhotoView, ViewPaper 等等一些控件的使用。
 
 
-- [常见内存泄漏场景以及解决办法](http://allenwu.itscoder.com/2016/10/21/allenwu_20161023_oom_in_android_and_solution/)([@allenwu](https://github.com/itsCoder/weeklyblog/pull/allenwu.itscoder.com))
+- [常见内存泄漏场景以及解决办法](http://allenwu.itscoder.com/2016/10/21/allenwu_20161023_oom_in_android_and_solution/)([@allenwu](https://github.com/wuchangfeng))
 
   本文详细讲解一些常见的内存泄漏场景，并结合代码 Demo 进行原因分析以及相应解决策略。最后介绍下使用 LeakCanary 来检测 App 是否存在内存泄漏，对于 App 的性能优化有很大帮助；通过该文章的学习，以后我们写代码的时候稍加注意，就会避免一些常见的泄露问题，提升 App 性能。
 
