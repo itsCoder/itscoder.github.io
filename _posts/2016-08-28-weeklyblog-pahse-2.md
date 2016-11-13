@@ -11,7 +11,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
 ##### 源码分析
 
-- [HashMap 源码分析](http://allenwu.itscoder.com/2016/08/19/allenwu_20160819__hashmap_source_analyse/) ([@allenwu](http://allenwu.itscoder.com/))
+- [HashMap 源码解析](http://allenwu.itscoder.com/hashmap-analyse)([@allenwu](http://allenwu.itscoder.com/)) 
 
   深入 HashMap 源码，讲解 JDK 1.7 和 JDK 1.8 HashMap 不同的实现，同时介绍了 hashCode() 方法的具体作用，以及涉及的相关数据结构的分析，一些关键点均给出了详细解释。
 

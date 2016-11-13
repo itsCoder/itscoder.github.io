@@ -19,7 +19,7 @@ category: [WeeklyBlog]
 
   本文司机通过简单的案例讲解了 Java 中的注解知识点，思路清晰，可以帮助大家对注解有初步了解以及进行简单运用。
 
-- [利用动态代理来做点事儿](http://allenwu.itscoder.com/2016/09/11/allenwu_20160909_the_use_of_proxy/) ([@allenwu](https://github.com/wuchangfeng))
+- [利用动态代理做点事儿](http://allenwu.itscoder.com/use-of-proxy)([@allenwu](http://allenwu.itscoder.com/))
 
   作者本篇文章主要分析了动态代理在 Java 中的实现及原理，以及在 Java 和 Android 中的应用，阅读本篇文章前应该对代理有一定的基础了解。作者从 Java 的基本实现入手讲解，通过 Demo 简单明了地讲解了动态代理的实现方式以及作用，然后深入的探究了代理类的调用原理。
   第二节中通过 Retrofit 的分析来阐明在 Android 中的应用这一部分很大的帮助我们理解了之前学习 Retrofit 源码时的一个疑惑。

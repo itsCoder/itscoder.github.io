@@ -19,7 +19,7 @@ category: [WeeklyBlog]
 
 ##### 算法
 
-- [用动态规划来解决问题-上](http://allenwu.itscoder.com/2016/09/24/dynamic-programming/) ([@allenwu](http://allenwu.itscoder.com/))
+- [用动态规划解决问题](http://allenwu.itscoder.com/dynamic-programming)([@allenwu](http://allenwu.itscoder.com/)) 
 
   本文从新的角度讲解如何用动态规划的求解，通过两个简单的例子，阐述了状态转移方程的推导。文章开始开门见山的提出动态规划的核心就是用空间换时间。很好的让人对 DP 算法有一个初步的了解，还有下篇可以期待。
 
