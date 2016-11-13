@@ -15,7 +15,7 @@ category: [WeeklyBlog]
 
 ##### Design
 
-- [【译】打造完美像素图标](http://showzeng.itscoder.com/2016/10/22/make-pixel-perfect-icon/) ([@showzeng](https://github.com/showzeng))
+- [(译)打造完美像素图标](http://showzeng.itscoder.com/design/2016/10/22/make-pixel-perfect-icon.html) ([@showzeng](https://github.com/showzeng))
 
   原文介绍了一个设计师如何去制作完美像素图标，译文翻译切合原文意思。译者十分用心，在译文末尾添加了一些注释和参考文档，能让读者有一个初步的入门引导。
 

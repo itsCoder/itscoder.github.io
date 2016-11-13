@@ -50,7 +50,7 @@ category: [WeeklyBlog]
 
 ##### Nginx
 
-- [使用 Nginx 部署静态页面](http://showzeng.itscoder.com/2016/10/03/use-nginx-to-deploy-static-pages-easily/) ([@showzeng](https://github.com/showzeng))
+- [使用 Nginx 部署静态页面](http://showzeng.itscoder.com/nginx/2016/10/03/use-nginx-to-deploy-static-pages-easily.html) ([@showzeng](https://github.com/showzeng))
 
   作者从 nginx 介绍，到安装，到配置，一气呵成，很适合初学者实践 nginx 。整体行文规范，干净整洁。并对 nginx 优点加以诠释，介绍下什么是反向代理和负载均衡，让读者更明白为什么要用 nginx ，从而以本文作为初级实践作为开始。
 

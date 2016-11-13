@@ -46,7 +46,7 @@ category: [WeeklyBlog]
 
   本文司机从如何优雅的创建和销毁对象入手。进而展开如何以及何时创建对象才会更加“优雅”。同时也讲述了如何适时的去销毁不需要的对象以及在对象销毁之前需要做的一些垃圾清理工作。总体上文章叙述与代码示例并行，让读者有兴趣阅读下去。如果读者更深层次掌握这一部分知识点，也会确保自己写出程序更加"优雅"和高效。
 
-- [Gson 解析那些事](http://showzeng.itscoder.com/2016/09/11/Something-about-Gson-parsing/) ([@showzeng](https://github.com/showzeng))
+- [Gson 解析那些事](http://showzeng.itscoder.com/android/2016/09/11/Something-about-Gson-parsing.html) ([@showzeng](https://github.com/showzeng))
 
   本文从 JSON 的基础知识介绍起，然后引出 Google 公司发布的 Gson 开源项目，然后从开发者使用的角度一步步讲解了 Gson 库的使用过程，以及一些使用中遇到的概念和小细节。
 
