@@ -74,7 +74,13 @@
                 <li class="social">
                     <a href="{{ site.soundcloud }}" class="soundcloud"><i class="fa fa-soundcloud"></i></a>
                 </li>
-                {% endif %} {% if site.github %}
+                {% endif %}
+                {% if site.rss %}
+                <li class="social">
+                    <a href="{{ site.rss }}" class="github"><i class="fa fa-rss"></i></a>
+                </li>
+                {% endif %}
+                {% if site.github %}
                 <li class="social">
                     <a href="{{ site.github }}" class="github"><i class="fa fa-github"></i></a>
                 </li>

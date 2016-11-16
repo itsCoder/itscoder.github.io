@@ -24,6 +24,7 @@ author_default_avatar: /profile-pic.jpg
 #vimeo: "#"
 #soundcloud: "#"
 github: "https://github.com/itsCoder"
+rss: "http://itscoder.com/feed"
 
 encoding: utf-8
 defaults:
