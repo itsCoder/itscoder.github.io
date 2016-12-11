@@ -66,6 +66,6 @@ category: [WeeklyBlog]
 
   三弟第一个开源的控件，需求不复杂，但是做成组件之后使用起来很方便，在文章中还讲解了 View 的绘制流程，结合本文的控件的实现，是一次很好的自定义控件的实践，也是开源的一小步。
 
-- [RxLifecycle 使用与原理](http://brucezz.itscoder.com/articles/2016/09/19/usage_and_principle_of_rxlifecycle/) ([@brucezz](https://github.com/brucezz))
+- [RxLifecycle 使用与原理](http://brucezz.itscoder.com/usage-and-principle-of-rxlifecycle) ([@brucezz](https://github.com/brucezz))
 
   很好的一篇关于 RxLifecycle 的文章，条理很清晰，从如何使用到讲解其实现原理，很符合实际中学习一门技术时，先学会使用，后理解为什么这么用的过程。

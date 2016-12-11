@@ -11,7 +11,7 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 >[WeeklyBlog](https://github.com/itsCoder/weeklyblog) 是 itsCoder 发起了的第一个项目，本项目旨在督促成员利用业余时间继续学习，以写博客的方式或者开源项目作为产出。在提升自己的同时，将技术知识分享到开源社区。
 
 ##### Android
-- [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/articles/2016/08/06/use-apt-in-android/) ([@brucezz](https://github.com/brucezz))
+- [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/use-apt-in-android) ([@brucezz](https://github.com/brucezz))
 
 - [多进程中安全的使用 SharedPreferences](http://melodyxxx.com/2016/08/04/%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%AD%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8SharedPreferences/) ([@Melodyxxx](https://github.com/melodyxxx))
 

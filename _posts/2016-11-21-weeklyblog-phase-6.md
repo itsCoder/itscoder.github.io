@@ -20,7 +20,7 @@ category: [WeeklyBlog]
   Python 中的描述符可以说是新式类调用链中的根基，所有的方法，成员，变量调用时都将会有描述符的介入。同时我们可以利用描述符的特性来将我们的调用过程变得更为可控。这一点，我们可以在很多著名框架中找到这样的例子。本文通过 property 的源码实现，以及几个简单易懂的例子，讲解了 Python 中描述符的原理和使用。描述符能够在操作对象属性时进行 hook，实现各种黑魔法。
 
 
-- [Atom-Helper 小脚本](http://brucezz.itscoder.com/articles/2016/11/17/atom-helper-script/) ([@brucezz](https://github.com/brucezz))
+- [Atom\-Helper 小脚本](http://brucezz.itscoder.com/atom-helper-script) ([@brucezz](https://github.com/brucezz))
 
   都说程序员既要懒惰，又要保持好奇心。本文小天司机本着自己搜索插件和主题的需求出发，尝试写出一个解放自己的小插件，从分析问题，明确步骤层层递进，逻辑清晰地向我们展示了如何利用 Python 开发出一个脚本，虽然使用上与预期有点差距，不过作者在这个探索的过程中熟悉了许多陌生模块，期待着未来写出更多的自动化工具来为社区做出贡献。
 

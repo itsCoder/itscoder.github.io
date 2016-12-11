@@ -28,7 +28,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
 ##### 设计模式
 
-- [设计模式实践系列（一）](http://brucezz.itscoder.com/articles/2016/08/28/design_pattern_practice_1/) ([@brucezz](https://github.com/brucezz))
+- [设计模式实践](http://brucezz.itscoder.com/design-pattern-practice-1) ([@brucezz](https://github.com/brucezz))
 
   设计模式实践系列的第一篇文章，以一个模拟实际的小场景来讲解设计模式，结合例子理解设计模式，将本来空洞的理论讲解的生动有趣。
 

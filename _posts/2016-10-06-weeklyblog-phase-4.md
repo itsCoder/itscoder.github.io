@@ -40,7 +40,7 @@ category: [WeeklyBlog]
   本文作者从广播的使用流程入手分析，层层跟进源码，解释清楚了广播使用过程中的每一个重要环节。
   在源码分析的过程中还赠送了一个小彩蛋（应用停止状态接收广播）。本篇文章为《 Android开发艺术探索 》 笔记，建议结合书中内容及源码进行学习。
 
-- [在 Android 中使用 Java8 的特性](http://brucezz.itscoder.com/articles/2016/10/05/use_java8_in_android/)  ([@brucezz](https://github.com/brucezz))
+- [在 Android 中使用 Java8 的特性](http://brucezz.itscoder.com/use-java8-in-android) ([@brucezz](https://github.com/brucezz))
 
   这篇文章用实例的方式详细介绍了Java8的新特性，在介绍Lambda表达式的模块中，将使用场景描述的很详细；通过各种实用场景的对比，突出了 Java8 新特性的好处，尤其是后两个新特性，非常有趣。
 
