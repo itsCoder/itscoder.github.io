@@ -24,16 +24,16 @@ def get_post(f, phase):
                 post = re.match(PATTERN_POST, content)
                 if post:
                     # | 这是文章标题 | Android | 作者链接 |
-                    phase_summary += '| %s | [%s](%s) | %s | [%s](%s) |\n' % (phase,
-                                                                              post.group(1), post.group(2), category,
-                                                                              post.group(3), post.group(4))
+                    phase_summary += '| [%s](%s) | %s | [%s](%s) |%s|\n' % (
+                        post.group(1), post.group(2), category,
+                        post.group(3), post.group(4), phase)
             content = md.readline().replace(FUCK_STR, " ")
     return phase_summary
 
 
 if __name__ == '__main__':
     with open('README.md', 'w') as post_md:
-        th = '| 期数 | 标题 | 类别 | 作者 |\n| :-----: | :---- | :-----: | :--: |\n'
+        th = '| 标题 | 类别 | 作者 | 期数 |\n| :---- | :-----: | :--: | :-----: |\n'
         post_md.write(th)
         f_list = os.listdir(BLOG_DIR)
         f_list.reverse()
