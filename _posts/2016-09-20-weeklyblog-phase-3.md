@@ -13,7 +13,7 @@ category: [WeeklyBlog]
 
   本来想这周继续写写 Flask 那点破事儿的，但是想了想决定换换口味，来聊聊很不容易理解但是很重要的 Python 中的生成器和协程。
   
-##### Java 知识点
+##### Java
 
 - [Java 注解 (Annotation) ](https://win-man.github.io/2016/09/06/Java%E6%B3%A8%E8%A7%A3(Annotation)%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D/) ([@Win_Man](https://github.com/Win-Man))
 
@@ -54,7 +54,7 @@ category: [WeeklyBlog]
 
   本文司机从自己的经验出发，描述了如何将自己开发的组件或者项目上传到 Jcenter，开源给大家使用，整个流程清晰，关键步骤都配有代码和截图，十分详细。
 
-- [View 的工作原理上 View 绘制流程梳理及 Measure 过程详解（Android 开发艺术探索笔记）](http://yongyu.itscoder.com/2016/09/11/view_measure/) ([@yongyu](https://github.com/yongyu0102))
+- [View 的工作原理上 View 绘制流程梳理及 Measure 过程详解](http://yongyu.itscoder.com/2016/09/11/view_measure/) ([@yongyu](https://github.com/yongyu0102))
 
   本文从源码角度分析了  View 的三大流程 onMeasure()、onLayout() 和 onDraw()，对每个步骤的关键点结合源码进行了讲解， 并对 Measure 过程进行了详解。
 

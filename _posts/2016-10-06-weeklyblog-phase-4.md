@@ -44,7 +44,7 @@ category: [WeeklyBlog]
 
   这篇文章用实例的方式详细介绍了Java8的新特性，在介绍Lambda表达式的模块中，将使用场景描述的很详细；通过各种实用场景的对比，突出了 Java8 新特性的好处，尤其是后两个新特性，非常有趣。
 
-- [Android View 的工作原理下 View 的 layout 和 draw 过程详解 （Android 开发艺术探索读书笔记）](http://yongyu.itscoder.com/2016/10/05/view_layout_and_draw/) ([@yongyu](https://github.com/yongyu0102))
+- [Android View 的工作原理下 View 的 layout 和 draw 过程详解](http://yongyu.itscoder.com/2016/10/05/view_layout_and_draw/) ([@yongyu](https://github.com/yongyu0102))
 
   从源码的角度分析了 View 的 layout 的过程，以及具体的例如 `onLayout()` 在哪里回调的，顺带还分析了 `LinearLayout` 的 layout 过程。在 View 的 draw 方面，也从源码力分析了 draw 的流程。最后总结了一些自定义 View 的种类和套路，以及一些注意事项。
 

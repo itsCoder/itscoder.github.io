@@ -15,7 +15,7 @@ category: [WeeklyBlog]
 
 ##### Python
 
-- [Python 描述符入门指北 \| Manjusaka](http://manjusaka.itscoder.com/2016/10/12/Something-about-Descriptor/)
+- [Python 描述符入门指北 \| Manjusaka](http://manjusaka.itscoder.com/2016/10/12/Something-about-Descriptor/) ([@写代码的香港记者](https://github.com/Zheaoli))
 
   Python 中的描述符可以说是新式类调用链中的根基，所有的方法，成员，变量调用时都将会有描述符的介入。同时我们可以利用描述符的特性来将我们的调用过程变得更为可控。这一点，我们可以在很多著名框架中找到这样的例子。本文通过 property 的源码实现，以及几个简单易懂的例子，讲解了 Python 中描述符的原理和使用。描述符能够在操作对象属性时进行 hook，实现各种黑魔法。
 
