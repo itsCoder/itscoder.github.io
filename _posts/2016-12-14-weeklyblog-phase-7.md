@@ -31,7 +31,7 @@ category: [WeeklyBlog]
   本篇文章作者通过一个争论引入本文的主题，带我们一步步告诉我们管理 Fragment 两种方式。ViewPager 的如何通过 Fragment 实现懒加载的。最后作者总结： 使用 Fragment 能体现 Android 组件化的思想，其带给开发者的便利远大于麻烦。虽然其生命周期复杂，栈又奇怪难管理，不过当正确的姿势使用 Fragment（不要嵌套 Fragment 使用）。
 
 
-- [Activity 共享元素转场动画实践](http://extremej.itscoder.com/android_long_picture_process/) ([@Joe](http://extremej.itscoder.com/))
+- [Activity 共享元素转场动画实践](http://extremej.itscoder.com/zoom-up-animation/) ([@Joe](http://extremej.itscoder.com/))
 
   阿风这期带来了一篇共享元素实践方面的文章，通过手动实现弥补了 API 不兼容低版本的问题。从需求引出，到思路描述，再到详细的代码实践，写得很充实。在文章的最后，还补充了几个踩到的坑，同时提出了解决方案，造福后人啊！
 
