@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="../css/header.css">
+</head>
+<body>
+<div class="header">
+  <a href="">
+    <div class="home">首页</div>
+  </a>
+  {% for nav in site.navs %}
+  <a href="{{ nav.href }}" class="nav">{{ nav.label }}</a>
+  {% endfor %}
+</div>
+
+</body>
+</html>

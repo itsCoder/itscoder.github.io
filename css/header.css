@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  height: 64px;
+  background: #0078c2;
+  display: block !important;
+  overflow: visible !important;
+}
+
+.home {
+  display: inline;
+  margin-left: 5%;
+  color: white;
+  line-height: 64px;
+}
+
+.nav {
+  color: white;
+  position: relative;
+  float: right;
+  padding: 20px 20px;
+  font-size: 1.125em;
+  right: 0;
+}
+
