@@ -17,18 +17,21 @@
 </div>
 <div class="main">
   {% for post in paginator.posts %}
-  <a href="{{post.url}}">
-    <div class="post">
-      <img src="img/{{post.featimg}}" alt>
-      <div class="post-date">
-        <span>{{ post.date | date: '%m/%d, %Y' }}</span>
+  <div class="post-container">
+    <a href="{{post.url}}">
+      <div class="post">
+        <img src="img/{{post.featimg}}" alt>
+        <div class="post-date">
+          <span>{{ post.date | date: '%m/%d, %Y' }}</span>
+        </div>
+        <div class="post-title">{{ post.title }}</div>
+        <div class="post-excerpt">
+          {{ post.excerpt }}
+        </div>
       </div>
-      <div class="post-title">{{ post.title }}</div>
-      <div class="post-excerpt">
-        {{ post.excerpt }}
-      </div>
-    </div>
-  </a>
+    </a>
+  </div>
+
   {% endfor %}
 </div>
 
