@@ -1,6 +1,7 @@
 body {
   /*background: rgb(57, 57, 57);*/
-  background: url(../img/congruent_outline.png);
+  background: url(/img/congruent_outline.png);
+  /*background: #333;*/
   margin: 0;
   padding: 0;
 }

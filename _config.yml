@@ -25,14 +25,7 @@ author_default_avatar: /profile-pic.jpg
 #soundcloud: "#"
 github: "https://github.com/itsCoder"
 rss: "http://itscoder.com/feed"
-
-navs:
-  -
-    href: /feed/
-    label: 订阅
-  -
-    href: https://github.com/itsCoder/weeklyblog
-    label: GitHub
+members: "/members"
 
 encoding: utf-8
 defaults:

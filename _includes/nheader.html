@@ -3,15 +3,35 @@
   <meta charset="UTF-8">
   <title>Title</title>
   <link rel="stylesheet" href="../css/header.css">
+  <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
 </head>
 <body>
 <div class="header">
-  <a href="">
-    <div class="home">首页</div>
+  {% if page.url != "/" %}
+  <a href="/">
+    <div class="home">
+      <img src="/img/itscoder.svg">
+    </div>
   </a>
-  {% for nav in site.navs %}
-  <a href="{{ nav.href }}" class="nav">{{ nav.label }}</a>
-  {% endfor %}
+  {% endif %}
+
+  <div class="nav-div">
+
+    {% if site.rss %}
+    <a href="{{ site.rss }}" class="nav"><i class="fa fa-rss fa-2x"></i></a>
+    {% endif %}
+
+    {% if site.github %}
+    <a href="{{ site.github }}" class="nav"><i class="fa fa-github fa-2x"></i></a>
+    {% endif %}
+
+    {% if site.members %}
+    <a href="{{ site.members }}" class="nav"><i class="fa fa-user fa-2x"></i></a>
+    {% endif %}
+
+  </div>
+
+
 </div>
 
 </body>

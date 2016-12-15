@@ -8,27 +8,39 @@ a {
 }
 
 .header {
-  position: fixed;
   width: 100%;
-  height: 64px;
-  background: #0078c2;
-  display: block !important;
-  overflow: visible !important;
+  height: 72px;
+  /*background: #373737;*/
+  padding: 0;
 }
 
 .home {
-  display: inline;
   margin-left: 5%;
+  display: inline;
   color: white;
-  line-height: 64px;
+  height: 72px;
+}
+
+.home img {
+  margin-left: 16px;
+  margin-top: 18px;
+  height: 36px;
+}
+
+.nav-div {
+  position: relative;
+  float: right;
+  padding: 0 24px;
+  margin: 30px 0 0 0;
+  right: 5%;
 }
 
 .nav {
   color: white;
-  position: relative;
-  float: right;
-  padding: 20px 20px;
-  font-size: 1.125em;
+  /*position: relative;*/
+  /*float: right;*/
+  padding-left: 32px;
+  font-size: 0.9em;
   right: 0;
 }
 
