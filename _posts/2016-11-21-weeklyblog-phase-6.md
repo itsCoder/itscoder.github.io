@@ -7,13 +7,13 @@ category: [WeeklyBlog]
 
 北方的第一场雪已经降临，WeeklyBlog 也迎来了第六期，这期共有 10 篇文章，Android 为主。
 
-##### C/C++
+### C/C++
 
 - [Linux 下用 Clion 编写及调用共享库的实践](https://zetaoyang.github.io/post/2016/11/05/linux-shared-object.html) ([@zetaoyang](https://github.com/zetaoyang))
 
   这篇文章带我们了解 Linux 下动态库和静态库的编写过程，为一直用 IDE 的司机们， 提供一个思路。作者还告诉我们 C 调用 C++ 库的方法。 最后作者给我们阐述 cmake 和 make 的区别。
 
-##### Python
+### Python
 
 - [Python 描述符入门指北 \| Manjusaka](http://manjusaka.itscoder.com/2016/10/12/Something-about-Descriptor/) ([@写代码的香港记者](https://github.com/Zheaoli))
 
@@ -24,13 +24,13 @@ category: [WeeklyBlog]
 
   都说程序员既要懒惰，又要保持好奇心。本文小天司机本着自己搜索插件和主题的需求出发，尝试写出一个解放自己的小插件，从分析问题，明确步骤层层递进，逻辑清晰地向我们展示了如何利用 Python 开发出一个脚本，虽然使用上与预期有点差距，不过作者在这个探索的过程中熟悉了许多陌生模块，期待着未来写出更多的自动化工具来为社区做出贡献。
 
-##### 面向对象
+### 面向对象
 
 - [面向对象六大原则和设计模式](https://itsmelo.github.io/2016/11/20/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99%E5%92%8C%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) ([@Melo](https://github.com/itsMelo))
 
   Melo 司机在本篇文章详细的描述了设计模式的入门：六大原则。文章通过文字叙述、介绍概念，然后辅以代码解释、帮助读者理解。面向对象的六大原则在开发过程中极为重要，他们给灵活、可扩展的软件系统提供了更细粒度的指导原则。而根本上如作者所说，六大原则简单概述起来就是：面向接口，单一职责，抽象，最小化。六大原则以及 23 中主流设计模式学习和理解起来不难，难的是如何运用在实际项目中，而达到这一点，想必要有足够的项目经验，足够的代码量。建议大家平时可以多看看优秀的开源项目的代码，一来知道一些功能是怎么实现的，二来学习优秀的架构是如何设计的，相信处处留心皆学问呀。
 
-##### Android 
+### Android 
 
 - [沉浸式适配个人总结 ](http://imxie.cc/2016/11/08/jike_Immersive_project/) ([@谢三弟](https://github.com/xcc3641))
 

@@ -7,7 +7,7 @@ category: [WeeklyBlog]
 
 国庆假期接近尾声，WeeklyBlog 项目在假期中完成了第四期。假期结束，学习和工作还得继续。
 
-##### Java
+### Java
 
 - [Java 基础 —— 多线程（读书笔记）「一」](http://imxie.cc/2016/09/21/Review-Java-Thread/)([@谢三弟](https://github.com/xcc3641))
 
@@ -17,19 +17,19 @@ category: [WeeklyBlog]
 
   由浅入深的跟读者讲解了 Lambda 表达式的由来、概念、深入以及应用。在引入文章场景的过程中，还带领读者学习了设计模式中策略模式的由来、相关概念和应用场景。总体上如文章所言，Lambda 表达式是追求新颖技术的人所必须掌握的，提供了一种现在炒得很火的函数式编程思想。
 
-##### 算法
+### 算法
 
 - [用动态规划解决问题](http://allenwu.itscoder.com/dynamic-programming)([@allenwu](http://allenwu.itscoder.com/)) 
 
   本文从新的角度讲解如何用动态规划的求解，通过两个简单的例子，阐述了状态转移方程的推导。文章开始开门见山的提出动态规划的核心就是用空间换时间。很好的让人对 DP 算法有一个初步的了解，还有下篇可以期待。
 
-##### 设计模式
+### 设计模式
 
 - [Android 设计模式 Builder模式的分析与实践](https://shadowzwy.github.io/2016/09/26/Android%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8FBuilder%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%88%86%E6%9E%90%E5%92%8C%E5%AE%9E%E8%B7%B5.html) ([@shadow](https://github.com/shaDowZwy))
 
   本文司机通过对 Dialog 的源码分析，把 Android 中的 Builder 模式讲解了一番，最后补充了一个实践项目。条理清晰，很容易懂。
 
-##### Android
+### Android
 
 - [Android 过度绘制优化](http://jaeger.itscoder.com/android/2016/09/29/android-performance-overdraw.html) ([@写代码的猴子](https://github.com/laobie))
 
@@ -48,13 +48,13 @@ category: [WeeklyBlog]
 
   从源码的角度分析了 View 的 layout 的过程，以及具体的例如 `onLayout()` 在哪里回调的，顺带还分析了 `LinearLayout` 的 layout 过程。在 View 的 draw 方面，也从源码力分析了 draw 的流程。最后总结了一些自定义 View 的种类和套路，以及一些注意事项。
 
-##### Nginx
+### Nginx
 
 - [使用 Nginx 部署静态页面](http://showzeng.itscoder.com/nginx/2016/10/03/use-nginx-to-deploy-static-pages-easily.html) ([@showzeng](https://github.com/showzeng))
 
   作者从 nginx 介绍，到安装，到配置，一气呵成，很适合初学者实践 nginx 。整体行文规范，干净整洁。并对 nginx 优点加以诠释，介绍下什么是反向代理和负载均衡，让读者更明白为什么要用 nginx ，从而以本文作为初级实践作为开始。
 
-##### Git
+### Git
 
 - [Git 学习笔记](http://janggwa.cn/2016/10/04/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/) ([@JangGwa](https://github.com/JangGwa))
 

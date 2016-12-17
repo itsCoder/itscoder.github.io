@@ -9,7 +9,7 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
 本期内容也较为丰富，有 Android 的基础知识、源码分析，也有解决实际开发中的问题的内容，还有一些独立开发者的内容，同时还有 Python 老司机的技术分享以及设计模式系列的开篇之作。
 
-##### 源码分析
+### 源码分析
 
 - [HashMap 源码解析](http://allenwu.itscoder.com/hashmap-analyse)([@allenwu](http://allenwu.itscoder.com/)) 
 
@@ -20,19 +20,19 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
   源码角度深入分析 SparseArray 的实现原理，并分析了其与 HashMap 相比较的优缺点，每个关键过程都配上具体的图来讲解原理，十分细致。其博客上的源码系列文章都很赞。
 
 
-##### Python
+### Python
 
 - [Flask Router 机制初探及 Python 装饰器复习](http://manjusaka.itscoder.com/2016/08/09/reading-the-fucking-flask-source-code-Part1/) ([@写代码的香港记者](https://github.com/Zheaoli))
 
   Python 老司机用 **Flask** 来作为阅读开源源码计划的开始，该系列的开篇之作，很适合用来巩固 **Python** 的中的很多细节。
 
-##### 设计模式
+### 设计模式
 
 - [设计模式实践](http://brucezz.itscoder.com/design-pattern-practice-1) ([@brucezz](https://github.com/brucezz))
 
   设计模式实践系列的第一篇文章，以一个模拟实际的小场景来讲解设计模式，结合例子理解设计模式，将本来空洞的理论讲解的生动有趣。
 
-##### Android
+### Android
 
 - [View 的事件分发机制（Android 开发艺术探索读书笔记）](http://yongyu.itscoder.com/2016/08/28/view_touchEvent_dispatch/)([@yongyu0102](http://yongyu.itscoder.com/))
 

@@ -7,7 +7,7 @@ category: [公告]
 ---
 itsCoder，一个组织，一个聚集了老司机码农的组织。
 
-##### itsCoder 简介
+### itsCoder 简介
 - 名称：itsCoder
 - 主页：[www.itscoder.com](http://itscoder.com/)
 - Logo: 	
@@ -30,7 +30,7 @@ itsCoder，一个组织，一个聚集了老司机码农的组织。
 - 宗旨：学习 创造 分享
 
 
-##### itsCoder 的诞生
+### itsCoder 的诞生
 
 那是一个燥热的深夜，一群码农聚集在 QQ 群里扯淡、斗图。
 
@@ -54,14 +54,14 @@ itsCoder，一个组织，一个聚集了老司机码农的组织。
 
 成立的组织就是 **itsCoder**，组织的名称很简单，就是来自 *“It is coder”*，组织内膜法师较多，这个自带膜法师属性的名称得到大家的一致认可。
 
-##### itsCoder 的活动
+### itsCoder 的活动
 - **WeeklyBlog**
 	- GitHub 地址：[WeeklyBlog](https://github.com/itsCoder/weeklyblog)
 	- 介绍：这是 itsCoder 发起了的第一个项目，本项目旨在督促成员利用业余时间继续学习，以写博客的方式或者开源项目作为产出。在提升自己的同时，将技术知识分享到开源社区。
 
 后期根据组织内决定，再发起其他项目。
 
-##### 加入 itsCoder 
+### 加入 itsCoder 
 目前直接加入组织的方式暂不开放，可以先加入 WeeklyBlog 项目，参加几期之后可以加入组织。
 
 

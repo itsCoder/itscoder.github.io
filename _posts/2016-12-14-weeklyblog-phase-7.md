@@ -7,19 +7,19 @@ category: [WeeklyBlog]
 
 一晃 WeeklyBlog 项目进行快半年了，产出近 80 篇文章，很赞，继续前行。
 
-##### React Native
+### React Native
 
 - [React Native 从零到一个小项目](http://janggwa.cn/2016/12/13/React%20Native%20%E4%BB%8E%E9%9B%B6%E5%88%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%A1%B9%E7%9B%AE/)([@JangGwa](https://github.com/JangGwa))
 
   React Native 是 Facebook 最近隆重推出的一款移动应用开发框架，学习成本很低，该司机以一个小项目着手向我们讲解了 RN 的入门到立项，再到完成。包括了 RN 环境搭建，基础讲解，以及一些常用控件的使用，最后贴上了自己的开源项目地址，想必可以给想或准备学习 RN 的小伙伴带来很大的指导意义。
 
-##### 插件
+### 插件
 
 - [学习给 AS 和 IDEA 开发一个翻译插件](http://allenwu.itscoder.com/write-a-plugin-for-idea-and-as) ([@allenwu](https://github.com/wuchangfeng))
 
   我们一直在享用着各种编辑器插件给我们带来的便捷，而你是否想过自己动手去实现一个呢？或许在你需要的时候，你就可以利用这个技能为自己写个插件。而本文，将带你一步一步为 IDEA 和 AS 开发一款翻译插件，让你了解插件开发的全貌。
 
-##### Android
+### Android
 
 - [Android 项目框架--MVP 基础](http://hujiandong.com/2016/12/13/android-mvp-basic/)  ([@Jasonim](https://github.com/Jasonim))
 

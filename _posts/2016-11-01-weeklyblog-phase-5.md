@@ -7,32 +7,32 @@ category: [WeeklyBlog]
 
 秋季来临，渐入慵懒的冬季，但脚步不能停下来，还要保持学习，不断前行。
 
-##### 算法
+### 算法
 
 - [非对称加密( RSA )数据传送的实战](https://zetaoyang.github.io/post/2016/10/06/rsa.html) ([@zetaoyang](https://github.com/zetaoyang))
 
   本文行文整洁规范，对非对称加密 RSA 算法有一定的研究，并在 PHP,  Java 和 web 上分别根据其原理进行实现，从而作为作者对于非对称加密数据传输的实践。
 
-##### Design
+### Design
 
 - [(译)打造完美像素图标](http://showzeng.itscoder.com/design/2016/10/22/make-pixel-perfect-icon.html) ([@showzeng](https://github.com/showzeng))
 
   原文介绍了一个设计师如何去制作完美像素图标，译文翻译切合原文意思。译者十分用心，在译文末尾添加了一些注释和参考文档，能让读者有一个初步的入门引导。
 
-##### React Native
+### React Native
 
 - [React Native 环境搭建](http://janggwa.cn/2016/10/30/React%20Native%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/) ([@JangGwa](https://github.com/JangGwa))
 
   “配置完环境，任务就完成了一半”。配置环境永远是开发的痛，有一篇好的配置环境教程则事半功倍。感谢老司机带我们上路，入门 React Native，从搭建环境开始。
 
 
-##### Java
+### Java
 
 - [讲讲 Java8 中的流](https://win-man.github.io/2016/10/21/%E8%AE%B2%E8%AE%B2Java8%E4%B8%AD%E7%9A%84%E6%B5%81/)([@Win_Man](https://github.com/Win-Man))
 
   本文详细讲述了 Java 8 中流的概念和流的初体验，通过对中间操作和终端操作的详细使用进行了讲解使读者能更深入的理解 Java 8 中的流。
 
-##### Android
+### Android
 
 - [帧动画和补间动画](https://itsmelo.github.io/2016/10/31/%E5%B8%A7%E5%8A%A8%E7%94%BB%E5%92%8C%E8%A1%A5%E9%97%B4%E5%8A%A8%E7%94%BB/) ([@melo](https://itsmelo.github.io/))
 

@@ -7,13 +7,13 @@ category: [WeeklyBlog]
 
 由于一些原因第三期的文章姗姗来迟，这里表示抱歉。这期加入了新成员，也带来了新的文章。
 
-##### Python
+### Python
 
 - [Python 生成器和协程那点事儿](http://manjusaka.itscoder.com/2016/09/11/something-about-yield-in-python/) ([@写代码的香港记者](https://github.com/Zheaoli))
 
   本来想这周继续写写 Flask 那点破事儿的，但是想了想决定换换口味，来聊聊很不容易理解但是很重要的 Python 中的生成器和协程。
   
-##### Java
+### Java
 
 - [Java 注解 (Annotation) ](https://win-man.github.io/2016/09/06/Java%E6%B3%A8%E8%A7%A3(Annotation)%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D/) ([@Win_Man](https://github.com/Win-Man))
 
@@ -25,7 +25,7 @@ category: [WeeklyBlog]
   第二节中通过 Retrofit 的分析来阐明在 Android 中的应用这一部分很大的帮助我们理解了之前学习 Retrofit 源码时的一个疑惑。
   这篇文章个人感觉非常赞，没有过多的废话，思路清晰易于理解，但是一定要对代理有一定了解，并且对 Retrofit 有原理性的概念，否则读起来会比较懵逼。
 
-##### Android 
+### Android 
 
 - [AsyncTask源码分析](http://melodyxxx.com/2016/09/08/asynctask-analysis/) ([@Melodyxxx](https://github.com/melodyxxx))
 

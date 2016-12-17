@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  width: 100%;
+  height: 72px;
+  /*background: #373737;*/
+  padding: 0;
+}
+
+.home {
+  margin-left: 5%;
+  display: inline;
+  color: white;
+  height: 72px;
+}
+
+.home img {
+  margin-top: 18px;
+  height: 36px;
+  margin-left: 8px;
+}
+
+.nav-div {
+  position: relative;
+  float: right;
+  padding: 0 8px 0 0;
+  top: 50%;
+  margin-right: 0;
+  margin-top: -12px;
+  height: 36px;
+  right: 5%;
+}
+
+.nav {
+  color: white;
+  line-height: 30px;
+  padding-left: 24px;
+  right: 0;
+}
+
+@media screen and (max-width: 768px) {
+
+  .nav-div {
+    margin-top: -8px;
+    height: 24px;
+  }
+  .nav {
+    font-size: 0.8em;
+    line-height: 24px;
+    padding-left: 16px;
+  }
+}
+

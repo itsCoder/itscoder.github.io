@@ -10,7 +10,7 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 
 >[WeeklyBlog](https://github.com/itsCoder/weeklyblog) 是 itsCoder 发起了的第一个项目，本项目旨在督促成员利用业余时间继续学习，以写博客的方式或者开源项目作为产出。在提升自己的同时，将技术知识分享到开源社区。
 
-##### Android
+### Android
 - [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/use-apt-in-android) ([@brucezz](https://github.com/brucezz))
 
 - [多进程中安全的使用 SharedPreferences](http://melodyxxx.com/2016/08/04/%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%AD%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8SharedPreferences/) ([@Melodyxxx](https://github.com/melodyxxx))
@@ -27,9 +27,9 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 
 - [StaticLayout 源码分析](http://jaeger.itscoder.com/android/2016/08/05/staticlayout-source-analyse.html) ([@写代码的猴子](https://github.com/laobie))
 
-##### Python
+### Python
 
 - [用 Python 爬取豆瓣图书 TOP250 ](http://allenwu.itscoder.com/douban-spider)([@allenwu](http://allenwu.itscoder.com/))
 
-##### Swift
+### Swift
 - [详解 Swift 类型约束系统](http://manjusaka.itscoder.com/2016/08/02/%E8%AF%A6%E8%A7%A3Swift%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%9F%A5%E5%99%A8/) ([@Manjusaka](https://github.com/Zheaoli))
