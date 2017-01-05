@@ -18,7 +18,7 @@ gems: [jekyll-paginate]
 #vimeo: "#"
 #soundcloud: "#"
 github: "https://github.com/itsCoder"
-rss: "http://itscoder.com/feed"
+rss: "/feed"
 members: "/members"
 
 encoding: utf-8
