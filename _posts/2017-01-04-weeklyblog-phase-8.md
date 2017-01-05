@@ -18,13 +18,13 @@ category: [WeeklyBlog]
   一篇实战性比较强的文章，实现了一加官网的一个炫酷的齿轮动画。在了解本篇文章之前需要对 View 的坐标系，Canvas(画布)，Paint(画笔)，Path(路径绘图) 有较好的理解和熟练的使用程度。在有了上述基础之后可以跟着源码实现中间两个齿轮的旋转效果，这样就很容易理解啦。个人感觉本篇动画难点还是各种坐标的计算和理解。文章最后还是比较贴心的说明了在自定义动画时候，涉及到数值的变化可以利用 ValueAnimator 来帮助解决。感觉这样一步一步引入解决的问题的思路好赞。
   最后，非常推荐大家看看本篇文章所对应的源码实现，作者的代码写的非常干净，非常赞。
 
-- [Android View 动画和属性动画学习笔记）](http://yongyu.itscoder.com/2016/12/25/animation_learning_note/)([@yongyu](https://github.com/yongyu0102))
+- [Android View 动画和属性动画学习笔记](http://yongyu.itscoder.com/2016/12/25/animation_learning_note/)([@yongyu](https://github.com/yongyu0102))
 
   本文详细的介绍了帧动画、补间动画、和属性动画的使用场景，常用方法，以及可能踩到的一些坑。给出了在使用它们时，非常实用的建议。文章后半段分析了属性动画的源码，做到了知其所以然。在 Android 中动画本身就是一个比较难的技术，涉及了比较多的计算运算和数学知识。不过当真正去动手实践，总结经验时，也能去攻克它。
 
 - [仿 google 相机点击聚焦效果](http://hymane.itscoder.com/2016/12/24/hymane_20161224_custom_camera_foucs_view/) ([@hymane](https://github.com/hymanme))
 
-  本文行文规范整洁，思路清晰。模仿 Google 相机的聚焦效果也是非常地漂亮，本文从头到尾详细地介绍了如何分析解决一个动画效果的问题，不管是效果模仿学习或者是动画学习的开始，本文都是非常值得学习的文章。
+  本文行文规范整洁，思路清晰。模仿 Google 相机的聚焦效果也是非常得漂亮，本文从头到尾详细地介绍了如何分析解决一个动画效果的问题，不管是效果模仿学习或者是动画学习的开始，本文都是非常值得学习的文章。
 
 - [Android 6.0 运行时权限简洁封装](https://itsmelo.github.io/2017/01/04/Android%206.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E6%B4%81%E5%B0%81%E8%A3%85/) ([@Melo](https://itsmelo.github.io/))
 
