@@ -9,7 +9,7 @@ category: [WeeklyBlog]
 
 ### Android
 
-- [RxJava 线程切换源码的一些体会和思考](http://imxie.cc/2016/12/25/how_the_rxjava_thread_work/) ([@谢三弟](https://github.com/xcc3641))
+- [RxJava 线程切换源码的一些体会和思考](http://imxie.itscoder.com/2016/12/25/how_the_rxjava_thread_work/) ([@谢三弟](https://github.com/xcc3641))
 
   该司机先给读者出了一道关于线程操作符的考题，让读者自己先去思考，然后简洁明了的介绍了 RxJava 几个基础类/方法的作用，在此基础上，结合源码分析了线程切换的前因后果和线程变换的原理，最后给出了考题的答案，理论结合实战，分析的很棒，学习了，最后建议看此篇文章最好有一定的 RxJava 的使用或者理论基础，因为线程的变换原理主要是根据 RxJava 那几个关键类和方法，搞懂那几个类和方法，再学习此文章会轻松很多。
 
