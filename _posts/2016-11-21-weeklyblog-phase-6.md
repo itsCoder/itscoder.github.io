@@ -36,7 +36,7 @@ category: [WeeklyBlog]
 
   本文从实际项目出发，阐述了项目中 沉浸式/变色状态栏 的实现和一些需要注意的点。由于是从项目出发，本文的很多地方着重于解决项目中的问题，整体解决方案来看，由于状态栏样式的调整对布局和主题的选取侵入较多，读者需要根据自己的项目实际来学习。作者解决问题的思路和一些技巧都是不错的，同时在问题的考虑上也很周到。这是开发人员在平时的开发过程中需要学习和强化的点。
 
-- [Android 单元测试-Mock及Mockito](http://hujiandong.com/2016/11/07/android-unit-test-mock/)  ([@JasonThink](https://github.com/jasonim))
+- [Android 单元测试-Mock及Mockito](https://github.com/itsCoder/weeklyblog/blob/master/phase_6/jasonthink_2016110_android_unit-test-mock.md)  ([@JasonThink](https://github.com/jasonim))
 
   引入单元测试，带来的好处是显而易见的，首先可以直接帮我们寻找出 bug，并且在加入新的功能模块时，可以发现它是否影响并破坏了我们原有的功能。单元测试还可以强迫让我们的代码变得精炼短小，因为太过复杂的代码无法引入单元测试。单元测试还可以节省测试成本，不需要启动整个系统，就可以直接的，针对性的对任意模块进行测试。而且可以简单的模拟各种情况覆盖其各种分支。这是降低整体开发时间，提高软件质量的一种有效方法。
 
