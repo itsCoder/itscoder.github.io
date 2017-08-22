@@ -27,7 +27,7 @@ category: [WeeklyBlog]
 
 ### Android 
 
-- [AsyncTask源码分析](http://melodyxxx.com/2016/09/08/asynctask-analysis/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [AsyncTask源码分析](http://imhanjie.com/2016/09/08/asynctask-analysis/) ([@Melodyxxx](https://github.com/melodyxxx))
 
   本文从源码角度分析了 AsyncTask 的运行原理，让开发者了解到自己平时重写的 `onPreExecute ()`、`doInBackground()` 方法具体是在那些地方具体调用的，整个分析过程顺着源码的执行步骤一步步深入，思路很清晰，读完发现 AsyncTask 确实是个很轻量级的处理异步任务的类。
 
@@ -62,7 +62,7 @@ category: [WeeklyBlog]
 
   在之前的文章 热修复入门：Android 中的 ClassLoader 中，讲解了 Android 中的 ClassLoader 工作原理和通过 ClassLoader 实现热修复的可能性。本文结合 Nuva 项目，来讲讲基于 ClassLoader 方式如何具体实现热修复。
 
-- [Android 初阶自定义 View 字符头像](http://imxie.cc/2016/09/14/let-s-practise-custom-view/) ([@谢三弟](https://github.com/xcc3641))
+- [Android 初阶自定义 View 字符头像](http://imxie.itscoder.com/2016/09/14/let-s-practise-custom-view/) ([@谢三弟](https://github.com/xcc3641))
 
   三弟第一个开源的控件，需求不复杂，但是做成组件之后使用起来很方便，在文章中还讲解了 View 的绘制流程，结合本文的控件的实现，是一次很好的自定义控件的实践，也是开源的一小步。
 
