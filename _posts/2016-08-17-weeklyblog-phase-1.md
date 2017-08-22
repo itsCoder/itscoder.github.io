@@ -13,11 +13,11 @@ WeeklyBlog 项目第一期文章合集，Android 内容居多，也有 Python �
 ### Android
 - [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/use-apt-in-android) ([@brucezz](https://github.com/brucezz))
 
-- [多进程中安全的使用 SharedPreferences](http://melodyxxx.com/2016/08/04/%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%AD%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8SharedPreferences/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [多进程中安全的使用 SharedPreferences](http://imhanjie.com/2016/08/04/%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%AD%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8SharedPreferences/) ([@Melodyxxx](https://github.com/melodyxxx))
 
 - [ThreadPoolExecutor 源码学习笔记](http://extremej.itscoder.com/threadpoolexecutor_source/) ([@Joe](https://github.com/JoeSteven))
 
-- [Android 基础 -- 生命周期和启动模式实践总结](http://imxie.cc/2016/07/21/Activity-lifecycle-launchmode/) ([@IMXIE](https://github.com/xcc3641))
+- [Android 基础 -- 生命周期和启动模式实践总结](http://imxie.itscoder.com/2016/07/21/Activity-lifecycle-launchmode/) ([@IMXIE](https://github.com/xcc3641))
 
 - [Volley 学习笔记之简单使用及部分源码详解](http://yongyu.itscoder.com/2016/08/07/yongyu_20160803_volley_use_and_source_code_study/) ([@yongyu](https://github.com/yongyu0102))
 
