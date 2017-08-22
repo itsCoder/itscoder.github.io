@@ -32,7 +32,7 @@ category: [WeeklyBlog]
 
 ### Android 
 
-- [沉浸式适配个人总结 ](http://imxie.cc/2016/11/08/jike_Immersive_project/) ([@谢三弟](https://github.com/xcc3641))
+- [沉浸式适配个人总结 ](http://imxie.itscoder.com/2016/11/08/jike_Immersive_project/) ([@谢三弟](https://github.com/xcc3641))
 
   本文从实际项目出发，阐述了项目中 沉浸式/变色状态栏 的实现和一些需要注意的点。由于是从项目出发，本文的很多地方着重于解决项目中的问题，整体解决方案来看，由于状态栏样式的调整对布局和主题的选取侵入较多，读者需要根据自己的项目实际来学习。作者解决问题的思路和一些技巧都是不错的，同时在问题的考虑上也很周到。这是开发人员在平时的开发过程中需要学习和强化的点。
 
