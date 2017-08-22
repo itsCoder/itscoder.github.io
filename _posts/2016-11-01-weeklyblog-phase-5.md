@@ -59,7 +59,7 @@ category: [WeeklyBlog]
   本文详细讲解一些常见的内存泄漏场景，并结合代码 Demo 进行原因分析以及相应解决策略。最后介绍下使用 LeakCanary 来检测 App 是否存在内存泄漏，对于 App 的性能优化有很大帮助；通过该文章的学习，以后我们写代码的时候稍加注意，就会避免一些常见的泄露问题，提升 App 性能。
 
 
-- [使用 RenderScript 实现毛玻璃模糊效果](http://melodyxxx.com/2016/10/09/blur-image-by-renderscript/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [使用 RenderScript 实现毛玻璃模糊效果](http://imhanjie.com/2016/10/09/blur-image-by-renderscript/) ([@Melodyxxx](https://github.com/melodyxxx))
 
   Android 动态模糊是一个常用需求，RenderScript 是一个高性能动态模糊 Api，本文详细向我们介绍了如何使用 RenderScript 来实现模糊效果，并提出了一些为提高模糊效率的建议。
 
