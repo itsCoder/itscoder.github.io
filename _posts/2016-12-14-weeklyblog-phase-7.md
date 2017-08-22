@@ -21,7 +21,7 @@ category: [WeeklyBlog]
 
 ### Android
 
-- [Android 项目框架--MVP 基础](http://hujiandong.com/2016/12/13/android-mvp-basic/)  ([@Jasonim](https://github.com/Jasonim))
+- [Android 项目框架--MVP 基础](https://github.com/itsCoder/weeklyblog/blob/master/phase_7/jasonthink_20161202_android_mvp_basic.md)  ([@Jasonim](https://github.com/Jasonim))
 
   Android 上 MVP 模式已经出现了一段时间，关于 MVP 的优点显而易见，解耦、内聚、各司其职，当然也有代码量增多项目笨重等弊端。本文通过一个小例子为我们清楚的描述了 MVP 的一些基础思想和写法，具体究竟要不要在自己的项目里使用 MVP，就看各自的具体情况了。
 
