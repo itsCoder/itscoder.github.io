@@ -41,12 +41,12 @@ category: [WeeklyBlog]
   RecyclerView 是一个越用越优雅的控件，首先其规范了 ViewHolder 的写法，并且使用 LayoutManager 管理布局方向实现解耦，并且配合自带的动画和可以自定义的分割线，非常简单得就可以达到我们以前不太容易实现的效果。本文实现了一个多 Type 类型的 RecyclerView 带我们一览它的强大优雅，还提出一些实用的建议避免他人踩坑。RecyclerView 仍有许多可以探索的知识点，怎样高效优雅的使用 RecyclerView，值得琢磨。
 
 
-- [JitPack 指南](http://imxie.cc/2016/12/04/how_to_upload_your_project_to_jitpack/)([@谢三弟](https://github.com/xcc3641))
+- [JitPack 指南](http://imxie.itscoder.com/2016/12/04/how_to_upload_your_project_to_jitpack/)([@谢三弟](https://github.com/xcc3641))
 
   三弟的这篇教程简单明了的讲解了利用 JitPack 来更便捷的发布自己的代码库，顺序清楚，有图有步骤。
 
 
-- [使用 SpannableString 格式化微博内容](http://melodyxxx.com/2016/12/04/use_spannablestring_format_weibo/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [使用 SpannableString 格式化微博内容](http://imhanjie.com/2016/12/04/use_spannablestring_format_weibo/) ([@Melodyxxx](https://github.com/melodyxxx))
 
   本文结构清晰，作者从效果需求出发，逐步分析并给出代码，实现步骤也比较优雅，值得参考和学习。如果读者对所用的 API 不是非常了解，查阅资料之后就可以丰富自己的知识库了，也期待着作者能带来更多出色的教程。
 
