@@ -9,7 +9,7 @@ category: [WeeklyBlog]
 
 ### Java
 
-- [Java 基础 —— 多线程（读书笔记）「一」](http://imxie.cc/2016/09/21/Review-Java-Thread/)([@谢三弟](https://github.com/xcc3641))
+- [Java 基础 —— 多线程（读书笔记）「一」](http://imxie.itscoder.com/2016/09/21/Review-Java-Thread-1/)([@谢三弟](https://github.com/xcc3641))
 
   作为一篇 Java 多线程 的基础文章，三弟从常见的 2 种启动线程的写法入手，介绍了 `Thread` 的初始化和启动过程，然后以源码中的注释阐述了 Thread 的几种状态含义，接下来着重讲解了线程中几个重要的函数的作用，并通过实践来具体分析每个函数的用法和实际使用效果。
 
@@ -35,7 +35,7 @@ category: [WeeklyBlog]
 
   本文介绍了 Android 性能优化中的过度绘制，结合原理图说明过度绘制的现象和产生原因，结合自己在项目中的实际应用，逐一用例讲解过度绘制的各种方法，学习 Android 优化的同学不容错过。
 
-- [BroadcastReceiver 的工作过程分析](http://melodyxxx.com/2016/09/24/broadcast-receiver-analysis/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [BroadcastReceiver 的工作过程分析](http://imhanjie.com/2016/09/24/broadcast-receiver-analysis/) ([@Melodyxxx](https://github.com/melodyxxx))
 
   本文作者从广播的使用流程入手分析，层层跟进源码，解释清楚了广播使用过程中的每一个重要环节。
   在源码分析的过程中还赠送了一个小彩蛋（应用停止状态接收广播）。本篇文章为《 Android开发艺术探索 》 笔记，建议结合书中内容及源码进行学习。
