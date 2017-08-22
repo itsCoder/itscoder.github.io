@@ -45,7 +45,7 @@ category: [WeeklyBlog]
 
 ### 设计模式
 
-- [设计模式--单例模式](http://hujiandong.com/2016/12/21/design_pattern_singleton/) ([@jasonim](https://github.com/jasonim))
+- [设计模式--单例模式](https://github.com/itsCoder/weeklyblog/blob/master/phase_8/jasonthink_20161225_design_pattern_singleton.md) ([@jasonim](https://github.com/jasonim))
 
   单例是应用最广的模式之一，单例必须保证只有一个实例的存在，许多时候整个系统只需要拥有一个全局对象，这样有利于我们协调系统整体的行为。作者在本篇文章中，详细介绍了四种常用单例模式的写法，并且分析了各自的优缺点，对于常用单例，但不熟悉为什么的同学是一个补习知识和提高的好文章。
 
