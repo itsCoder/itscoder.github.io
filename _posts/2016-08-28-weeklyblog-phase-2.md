@@ -43,12 +43,12 @@ WeeklyBlog 项目第二期文章合集，本期流程更加规范，审阅时间
 
   本文司机从自己实际开发中出发，使用 ItemTouchHelper 工具类完美实现拖拽、滑动删除以及撤销删除等操作，整个过程都有详细的代码给出，并加以说明，对于有这方面需求的开发者来说值得一看。
 
-- [从注册Google Play开发者到如何使用Google LVL验证服务](http://melodyxxx.com/2016/08/21/use_google_play_lvl/) ([@Melodyxxx](https://github.com/melodyxxx))
+- [从注册Google Play开发者到如何使用Google LVL验证服务](http://imhanjie.com/2016/08/21/use_google_play_lvl/) ([@Melodyxxx](https://github.com/melodyxxx))
 
   本文司机 Melodyxxx 是一名大三的独立开发者，其开发的 Pure 天气在国内市场获得大量好评，最近上线 Google Play，从自己这次上架经历中总结了一篇完整详细的教程，从如何注册 Google Play 开发者到在项目中实现 LVL 验证均做了详细说明，很棒的经历！
 
 
-- [框架源码 — 可能会有趣一点地简析学习 Retrofit](http://imxie.cc/2016/08/20/retrofit-source-learning/)  ([@谢三弟](http://imxie.cc/))
+- [框架源码 — 可能会有趣一点地简析学习 Retrofit](http://imxie.itscoder.com/2016/08/20/retrofit-source-learning/)  ([@谢三弟](http://imxie.cc/))
 
   谢三弟文辞幽默地从源码角度分析了 Retrofit 是如何将接口转换为网络请求，并分析出到底是哪里进行网络请求，源码中关键点都添加了详细的说明，对于使用 Retrofit 但是不知道其原理的开发者，本文是一篇不错的学习文章。
 
