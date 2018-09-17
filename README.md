@@ -1,5 +1,25 @@
 | 标题 | 类别 | 作者 | 期数 |
 | :---- | :-----: | :--: | :-----: |
+| [2018 新的税改并入一些看法](https://www.hujiandong.com/tax_reform_2018.html) | 随想 | [JasonThink](https://github.com/jasonim) | 10 |
+| [Appium 自动化测试介绍和使用说明](https://hllgithub.github.io/2018/09/09/Appium%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/) | iOS | [Jeffrey](https://github.com/hllGitHub) | 10 |
+| [CentOS 搭建 Nginx 服务器并开启 HTTP2 协议](https://hymane.itscoder.com/use-http2-with-nginx/) | Nginx | [hymane](https://github.com/hymanme) | 10 |
+| [项目中的 Git 使用规范](https://jaeger.itscoder.com/dev/2018/09/12/using-git-in-project.html) | Git | [写代码的猴子](https://jaeger.itscoder.com) | 10 |
+| [说说观察者模式和发布/订阅模式的区别](http://extremej.itscoder.com/different_between_observe_and_publish/) | Android | [阿风](http://extremej.itscoder.com/) | 10 |
+| [Java 基础--队列同步器(AQS)](https://ljuns.itscoder.com/2018/09/04/Java%20%E5%9F%BA%E7%A1%80--%E9%98%9F%E5%88%97%E5%90%8C%E6%AD%A5%E5%99%A8(AQS)/) | Java | [ljuns](https://ljuns.itscoder.com/) | 10 |
+| [使用 SurfaceView 实现一个下雨的天气效果](https://www.imhanjie.com/2017/03/07/use_surfaceview/) | Android | [melody](https://github.com/imhanjie) |9|
+| [Android 上 ZXing 库的使用解析](https://www.jianshu.com/p/f862b73d07f7) | Android | [melo](https://github.com/itsMelo) |9|
+| [给你的独立博客加上夜间模式以及 Service Worker](https://zetaoyang.github.io/post/2017/02/27/add-night-mode-and-service-worker-for-your-blog.html) | Web | [ZetaoYang](https://github.com/ZetaoYang) |9|
+| [Thinking in Java 学习笔记之复用类与多态](http://showzeng.itscoder.com/java/2017/02/24/thinking-in-java-note-reusable-class-and-polymorphic.html) | Java | [showzeng](https://github.com/showzeng) |9|
+| [RxJava 线程切换源码的一些体会和思考](http://imxie.itscoder.com/2016/12/25/how_the_rxjava_thread_work/) | Android | [谢三弟](https://github.com/xcc3641) |8|
+| [GearMachine Canvas 绘制漂亮的齿轮装置](http://refactor.cn/2016/12/26/GearMachine-Canvas%E7%BB%98%E5%88%B6%E6%BC%82%E4%BA%AE%E7%9A%84%E9%BD%BF%E8%BD%AE%E8%A3%85%E7%BD%AE/) | Android | [andyxialm](https://github.com/andyxialm) |8|
+| [Android View 动画和属性动画学习笔记](http://yongyu.itscoder.com/2016/12/25/animation_learning_note/) | Android | [yongyu](https://github.com/yongyu0102) |8|
+| [仿 google 相机点击聚焦效果](http://hymane.itscoder.com/2016/12/24/hymane_20161224_custom_camera_foucs_view/) | Android | [hymane](https://github.com/hymanme) |8|
+| [Android 6.0 运行时权限简洁封装](https://itsmelo.github.io/2017/01/04/Android%206.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E6%B4%81%E5%B0%81%E8%A3%85/) | Android | [Melo](https://itsmelo.github.io/) |8|
+| [RecyclerViewDivider: RecyclerView 分割线](https://github.com/laobie/RecyclerViewDivider) | Android | [写代码的猴子](https://github.com/laobie) |8|
+| [利用 Gradle 进行应用程序的编译打包](http://allenwu.itscoder.com/learn-gradle-in-android) | Gradle | [allenwu](https://github.com/wuchangfeng) |8|
+| [设计模式--单例模式](https://github.com/itsCoder/weeklyblog/blob/master/phase_8/jasonthink_20161225_design_pattern_singleton.md) | 设计模式 | [jasonim](https://github.com/jasonim) |8|
+| [[译] 给予设计师灵感的 11 个顶尖网站](https://zetaoyang.github.io/post/2016/12/24/t-top-inspiration-websites-for-designers.html) | 设计 | [zetaoyang](https://github.com/zetaoyang) |8|
+| [MySQL 基础之组提交](https://win-man.github.io/2016/12/07/win_man_20161224_mysql_binary_log_group_commit/) | 数据库 | [Win_Man](https://github.com/Win-Man) |8|
 | [React Native 从零到一个小项目](http://janggwa.cn/2016/12/13/React%20Native%20%E4%BB%8E%E9%9B%B6%E5%88%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%A1%B9%E7%9B%AE/) | React Native | [JangGwa](https://github.com/JangGwa) |7|
 | [学习给 AS 和 IDEA 开发一个翻译插件](http://allenwu.itscoder.com/write-a-plugin-for-idea-and-as) | 插件 | [allenwu](https://github.com/wuchangfeng) |7|
 | [Android 项目框架--MVP 基础](https://github.com/itsCoder/weeklyblog/blob/master/phase_7/jasonthink_20161202_android_mvp_basic.md) | Android | [Jasonim](https://github.com/Jasonim) |7|
