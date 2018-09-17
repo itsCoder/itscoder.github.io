@@ -17,7 +17,7 @@ category: [WeeklyBlog]
 
 - [Appium 自动化测试介绍和使用说明](https://hllgithub.github.io/2018/09/09/Appium%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/) ([@Jeffrey](https://github.com/hllGitHub))
 
-  作者这篇文章给我们介绍了一个自动化测试开源工具 Appium，支持 iOS 平台和 Android 平台上的原生应用，它的优点是在不同的平台（iOS，Android）使用同一套API来写自动化测试脚本，这样大大增加了 iOS 和 Android 测试套件间代码的复用性。文章从 iOS 平台出发，介绍了如何搭建环境，如何使用 Python 编写测试脚本以及如何自动化测试。
+  作者这篇文章给我们介绍了一个自动化测试开源工具 Appium，支持 iOS 平台和 Android 平台上的原生应用，它的优点是在不同的平台（iOS，Android）使用同一套 API 来写自动化测试脚本，这样大大增加了 iOS 和 Android 测试套件间代码的复用性。文章从 iOS 平台出发，介绍了如何搭建环境，如何使用 Python 编写测试脚本以及如何自动化测试。
 
 ### Nginx
 
