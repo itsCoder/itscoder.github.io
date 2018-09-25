@@ -31,7 +31,7 @@ category: [WeeklyBlog]
 
   作者这篇文章从实际项目开发为出发点，对目前经典的 Git flow 作出了较为详细的解释，以及对每个分支类型的作用及使用规范也做了详细的描述。在了解 Git flow 的大框架前提上，还给出了流程的操作示例以及 commit 信息提交规范等。本文为项目 Git 协作开发提供了一套完整的解决方案，具有极高的参考价值，但每个项目也应该根据自己的实际情况去完善或者简化某些流程，到达真正提高开发效率的目的。
 
-### Android
+### 设计模式
 
 - [说说观察者模式和发布/订阅模式的区别](http://extremej.itscoder.com/different_between_observe_and_publish/)([@阿风](http://extremej.itscoder.com/))
 
