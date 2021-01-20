@@ -5,6 +5,9 @@
 /node_modules/
 /.brackets.json
 /jekyllbuild/
+.sass-cache/
+.jekyll-cache/
 /documentation/node_modules/
 /documentation/jekyllbuild/
 .idea
+.DS_Store

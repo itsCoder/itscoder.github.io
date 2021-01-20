@@ -8,7 +8,7 @@ permalink: /:title/
 paginate: 20
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 #tumblr: "#"
 #pinterest: "#"
 #instagram: "#"
